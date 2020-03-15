@@ -1,0 +1,6 @@
+D:\GA_TSP\GA_TSP\GA_TSP\bin\Debug\GA_TSP.exe.config
+D:\GA_TSP\GA_TSP\GA_TSP\bin\Debug\GA_TSP.exe
+D:\GA_TSP\GA_TSP\GA_TSP\bin\Debug\GA_TSP.pdb
+D:\GA_TSP\GA_TSP\GA_TSP\obj\Debug\GA_TSP.csprojAssemblyReference.cache
+D:\GA_TSP\GA_TSP\GA_TSP\obj\Debug\GA_TSP.exe
+D:\GA_TSP\GA_TSP\GA_TSP\obj\Debug\GA_TSP.pdb
